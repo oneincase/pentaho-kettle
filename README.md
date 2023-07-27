@@ -5,7 +5,7 @@ Kettle transformation/job files can be designed and executed in your favorite we
 This is one of the community activities and not supported by Pentaho.
 
 ## Use cases
-
+* This [settings.xml](https://raw.githubusercontent.com/pentaho/maven-parent-poms/master/maven-support-files/settings.xml) in your <user-home>/.m2 directory
 - Data security
 - Remote use
 - Ease of management
